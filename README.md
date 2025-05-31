@@ -72,3 +72,19 @@ The file `ironkaggle_notarget.csv` was:
 ## 📝 How to Run
 
 1. Ensure required libraries are installed (`requirements.txt` or use `pip install -r requ
+
+## 👥 Contributors
+
+We welcome contributions from anyone interested in improving this project! Here are the current contributors:
+
+* **Author**: JorgeMMLRodrigues
+* **Email**: jorgemmlrodrigues@gmail.com
+* **GitHub**: https://github.com/JorgeMMLRodrigues
+
+* **Author**: Mic-dev-gif
+* **Email**: michelemontalvo@outlook.com
+* **GitHub**: https://github.com/Mic-dev-gif
+
+* **Email**: simiatawane@gmail.com
+
+* **Email**: felipe.rocha@ironhack.com
